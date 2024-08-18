@@ -49,3 +49,16 @@ This project is focused on image classification, identifying five different type
 
 **Purpose:**
 This project aims to classify images of flowers into five categories using a pre-trained model from Teachable Machine. The user interface allows for uploading an image and getting a classification result instantly.
+
+---
+
+Demo Video can be accessed by clicking the button below
+
+[![Button Click]][Link]
+
+---
+
+[Link]: # 'https://drive.google.com/file/d/1qwR_2qiS6ft4Fryv8HJbXZXcz3wZXBRt/view?usp=sharing'
+[Button Click]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
+
+<!-- [here](https://drive.google.com/file/d/1qwR_2qiS6ft4Fryv8HJbXZXcz3wZXBRt/view?usp=sharing). -->
