@@ -1,0 +1,7 @@
+Flask==3.0.3
+Flask_Bootstrap==3.3.7.1
+numpy==2.1.0
+opencv_python==4.10.0.84
+Pillow==10.4.0
+torch==2.4.0
+ultralytics==8.2.77
